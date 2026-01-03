@@ -103,7 +103,7 @@ Excel/PDF Download
 
 Tech Stack:
 
-Backend
+Backend:
 
 Python
 
@@ -115,11 +115,11 @@ OpenPyXL
 
 ReportLab
 
-Frontend
+Frontend:
 
 HTML
 
-CSS (Bootstrap)
+CSS
 
 JavaScript
 
